@@ -1,28 +1,44 @@
 .header{
-  justify-content: center;
-  display: flex;
-  background: url("../static/header/Rectangle.png") center top no-repeat;
+  background-image: url("../static/header/Rectangle.png") ;
+  padding: 70px 300px;
+  position: relative;
 }
 
 .container {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
-img{
-  right: 20%;
+.header .halfCircle{
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  z-index: 1;
+}
+.header .shapes{
+  position: absolute;
+  top: 3px;
+  right: 20px; 
+}
+.header .manTre{
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  z-index: 2;
 }
 
-#halfCircle{
-  left: 30%;
+.header .arrows{
+  position: absolute;
+  top: 10px;
+  left: 285px;
+  z-index: 3;
 }
 
-#manTre{
+.header .edition{
+  position: absolute;
+  top: 30px;
+  right: 40px; 
+  z-index: 4;
 }
-
-#arrows{
-}
-
-#edition{
-}
+/* 570px  começa a achatar*/
