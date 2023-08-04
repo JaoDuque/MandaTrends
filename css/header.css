@@ -1,0 +1,28 @@
+.header{
+  justify-content: center;
+  display: flex;
+  background: url("../static/header/Rectangle.png") center top no-repeat;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img{
+  right: 20%;
+}
+
+#halfCircle{
+  left: 30%;
+}
+
+#manTre{
+}
+
+#arrows{
+}
+
+#edition{
+}
