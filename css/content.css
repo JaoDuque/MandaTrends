@@ -1,0 +1,50 @@
+.contContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content{
+  width: 500px;
+  top: 30px;
+  position: relative;
+}
+
+.content .womans{
+  position: absolute;
+}
+
+.content .cell{
+  position: absolute;
+  z-index: -1;
+}
+
+.content .cellPhoneHand{
+  z-index: -2;
+}
+
+.content h1{
+  margin-top: 10px;
+}
+
+.content h2{
+  margin-top: 6px;
+  font-family: Arial;
+  color: #b2b2b2;
+  font-size: 13px;
+}
+
+.content h3{
+  margin-top: 16px;
+  padding-bottom: 7px;
+  font-family: Arial;
+  color: #b2b2b2;
+  font-size: 11px;
+  font-style: italic;
+}
+.Pinkborder {
+  border-bottom: 4px solid;
+  width: 250px;
+  border-image: linear-gradient(276deg, rgba(0,212,255,1) 0%, rgba(209,0,255,1) 38%, rgba(255,0,0,1) 100%);
+  border-image-slice: 20%;
+}
