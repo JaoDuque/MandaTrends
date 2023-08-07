@@ -1,26 +1,27 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .header{
   background-image: url("../static/header/Rectangle.png") ;
   padding: 70px 300px;
   position: relative;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .header .halfCircle{
   position: absolute;
   top: 20px;
   left: 0px;
-  z-index: 1;
 }
+
 .header .shapes{
   position: absolute;
   top: 3px;
   right: 20px; 
 }
+
 .header .manTre{
   position: absolute;
   top: 40px;
