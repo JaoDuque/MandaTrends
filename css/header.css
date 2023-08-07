@@ -6,40 +6,40 @@ header {
 
 .header{
   background-image: url("../static/header/Rectangle.png") ;
-  padding: 70px 300px;
+  padding: 4.38rem 18.75rem;
   position: relative;
 }
 
 .header .halfCircle{
   position: absolute;
-  top: 20px;
-  left: 0px;
+  top: 1.25rem;
+  left: 0;
 }
 
 .header .shapes{
   position: absolute;
   top: 3px;
-  right: 20px; 
+  right: 1.25rem; 
 }
 
 .header .manTre{
   position: absolute;
-  top: 40px;
-  left: 30px;
+  top: 2.5rem;
+  left: 1.88rem;
   z-index: 2;
 }
 
 .header .arrows{
   position: absolute;
   top: 10px;
-  left: 285px;
+  left: 17.82rem;
   z-index: 3;
 }
 
 .header .edition{
   position: absolute;
-  top: 30px;
-  right: 40px; 
+  top: 1.88rem;
+  right: 2.25rem; 
   z-index: 4;
 }
 /* 570px  começa a achatar*/
