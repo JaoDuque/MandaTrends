@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.8rem;
+}
+
+footer .logo{
+  background-image: url("../static/footer/RetanguloRodape.png") ;
+  align-items: center;
+  padding: 1.5rem 12.5rem;
+}
+
+h4{
+  padding-top: 10px;
+  text-align: center;
+  font-family: Arial;
+  color: #b2b2b2;
+  font-size: 11px;
+}
+
