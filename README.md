@@ -9,7 +9,7 @@ O layout desse projeto foi gentilmente fornecido pela Mandarim, e meu objetivo f
 ## Mergulhando no Código
 Nesta minha primeira incursão na criação de HTML para e-mails, eu decidi abraçar o desafio do e-mail marketing. A jornada foi emocionante e empolgante, explorando novos territórios e moldando a arte do design de e-mails. O resultado, que você vê aqui, é um testemunho da minha dedicação e aprendizado contínuo.
 
-![MandaTrends](https://github.com/JaoDuque/MandaTrends/assets/107492575/9ef0ff06-a9b4-49ed-aa0f-54c0c414eb66)
+![MANDA_TRENDS](https://github.com/JaoDuque/MandaTrends/assets/107492575/cf1dd94b-6cdb-4518-ab89-e546016e6c58)
 
 Junte-se a mim nesta jornada, onde cada pixel importa e cada clique conta. Juntos, transformamos ideias em realidade no mundo dinâmico do e-mail marketing!
 
